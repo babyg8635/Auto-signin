@@ -32,7 +32,7 @@ asciiBanner()
 
 
 
-usernameStr = input("[*] Gmail: ")
+usernameStr = input("[*] Gmail: red251022@gmail.com ")
 passwordStr = input("[*] Password: ")
 os.system('clear')
 
